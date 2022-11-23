@@ -1,9 +1,10 @@
 - 👋 Hola a todos! Mi nombre es Facundo Sad.
 
   Actualmente estoy cursando el último cuatrimestre de la Tecnicatura en Sistemas en el Instituto ESBA. En estos años, adquirí conocimientos académicos sobre:
-  - Programación orientada a objetos con Java y C#
-  - Bases de datos relacionales
-  - HTML, CSS y Javascript.
+  - Programación orientada a objetos con Java y C#.
+  - Bases de datos relacionales.
+  - HTML, CSS, Javascript.
+  - Desarrollos Web con .NET Framework.
   - Desarrollo de APIs bajo arquitecturas monolíticas.  
   
 
